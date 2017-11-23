@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/12310017/how-to-convert-a-byte-to-its-binary-string-representation
+
+https://codereview.stackexchange.com/questions/122080/simplifying-lzw-compression-decompression
+
+http://www.javamadesoeasy.com/2015/02/hashmap-custom-implementation.html
